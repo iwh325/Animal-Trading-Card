@@ -1,0 +1,55 @@
+/* add your CSS here */
+img {
+	width: 300px;
+	height:auto;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#interesting-fact {
+	font-style: italic;
+}
+
+
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+li {
+	margin:5px 0;
+ 	line-height:1em;
+}
+
+#container {
+	margin:10px auto;
+	width:300px;
+	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-width: thin;
+	border-color: lightgray;
+	box-shadow: 10px 10px 5px lightgray;
+}
+
+#card {
+	margin:10px 0;
+	padding:10px;
+	border-style: solid;
+	border-width: thin;
+	border-color: lightgray;
+}
+
+.label {
+  font-weight: bold;
+  
